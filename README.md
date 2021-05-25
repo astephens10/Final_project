@@ -8,3 +8,5 @@ The data is related with direct marketing campaigns (phone calls) of a Portugues
 * EDA - https://github.com/astephens10/Final_project/blob/main/EDA/EDA.ipynb
 * Feature Engineering- https://github.com/astephens10/Final_project/blob/main/Preprocessing/Preprocessing.ipynb
 * Modeling- https://github.com/astephens10/Final_project/blob/main/Modeling/Modeling.ipynb
+
+The Data section will contain all csv and png files associated with this project 
